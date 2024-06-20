@@ -1,8 +1,8 @@
 ---
 title: Hello World
-date : 2024-06-20 08:28:00 -500
+date: 2024-06-20 08:28:00 +0530
 categories: [hello, world]
-tags : [learning]
+tags: [learning]
 ---
 
 # Experimenting with markdown
